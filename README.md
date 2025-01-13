@@ -32,7 +32,7 @@
 ![image](images/Tela-1-BD.png)
 *Dentro do portal do Azure temos a opção de criar um banco de dados SQL.*
 
-![image](images/Tela-2.png)
+![image](images/Tela-2-DB.png)
 
 ![image](images/Tela-3-BD.png)
 *Os primeiros parâmetros que precisamos definir é a Assinatura e Grupo de recursos. Caso não existe um "Grupo de recursos" será necessário a criação. Como no proprio site da Azure diz. "Use grupos de recursos como pastas para organizar e gerenciar todos os seus recursos."*
