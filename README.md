@@ -29,22 +29,22 @@
 
 ## Agora vamos fazer a criação do banco de dados
 
-![image](images/Tela-1-BD.png.png)
+![image](images/Tela-1-BD.png)
 *Dentro do portal do Azure temos a opção de criar um banco de dados SQL.*
 
-![image](images/Tela-2-BD.png.png)
+![image](images/Tela-2.png)
 
-![image](images/Tela-3-BD.png.png)
+![image](images/Tela-3-BD.png)
 *Os primeiros parâmetros que precisamos definir é a Assinatura e Grupo de recursos. Caso não existe um "Grupo de recursos" será necessário a criação. Como no proprio site da Azure diz. "Use grupos de recursos como pastas para organizar e gerenciar todos os seus recursos."*
 
-![image](images/Tela-5-BD.png.png)
+![image](images/Tela-5-BD.png)
 *Agora escolhemos um nome para nosso banco, caso não tenha nenhum servidor criado, vamos precisar fazer a criação de um.*
 
-![image](images/Tela-4-BD.png.png)
+![image](images/Tela-4-BD.png)
 *Definimos um nome, localização que ele vai estar e quais vão ser os métodos de autenticação.*
 
-![image](images/Tela-6-BD.png.png)
+![image](images/Tela-6-BD.png)
 *Na opção seguinte, podemos definir a redundância do armazenamento de backup.*
 
-![image](images/Tela-7-BD.png.png)
+![image](images/Tela-7-BD.png)
 *Com todas as opções configuradas, já temos uma previsão de quanto vai ser o custo do nosso bando de dados dentro da Azure.*
